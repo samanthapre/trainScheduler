@@ -1,0 +1,12 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+	/* Override jumbotron background color */
+	background-color: pink;
+}
+.header {
+	color: #7F09B0;
+	text-align: center;
+}
